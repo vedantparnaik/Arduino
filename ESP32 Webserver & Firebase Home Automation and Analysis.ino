@@ -5,10 +5,10 @@
 #include "dht.h"
 
 #define WIFI_SSID "VEDANT"
-#define WIFI_PASSWORD "vedant3878"
+#define WIFI_PASSWORD "******"
 
 #define FIREBASE_HOST "esptest2-8705c.firebaseio.com"
-#define FIREBASE_AUTH "UOPCIJE9kNMBEqfgJ1xiOQ68AslWYg1a8BqcAa5W"
+#define FIREBASE_AUTH "******"
 
 FirebaseData firebaseData;
 FirebaseJson json;
